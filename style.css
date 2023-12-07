@@ -20,7 +20,6 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  font-family: 'Switzer', sans-serif;
 
   position: relative;
   box-sizing: border-box;
@@ -50,13 +49,30 @@ body {
 }
 
 .three {
-  background-image: url("https://picsum.photos/1600/800?random=3");
+  background-image: url("https://www.asifa-hollywood.org/wp-content/uploads/2016/04/fantastic-mr-fox-asifa-hollywood.jpg");
 }
 
 .four {
-  background-image: url("https://picsum.photos/1600/800?random=4");
+  background-image: url("https://assets.vogue.com/photos/5891aa764fe1526113023cac/master/w_1280,c_limit/img-grandbudapesthotel_101846531153.jpg");
+
 }
 
 .five {
-  background-image: url("https://picsum.photos/1600/800?random=5");
+  background-image: url("https://i.ytimg.com/vi/vkfPhvimi8w/maxresdefault.jpg");
 }
+
+h1 {
+  text-align: center;
+  color: #FFC44D;
+  background: #26479C;
+  border-radius: 20px;
+  padding: 30px;
+}
+.panel p{
+   
+  color: #FFC44D;
+  background: #26479C;
+  border-radius: 20px;
+  padding: 30px;
+}
+
