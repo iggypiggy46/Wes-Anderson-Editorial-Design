@@ -1,4 +1,3 @@
-import gsap from "https://esm.sh/gsap";
 gsap.registerPlugin(ScrollTrigger);
 
 let getRatio = (el) =>
